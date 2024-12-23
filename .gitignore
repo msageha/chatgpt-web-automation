@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.env
+
+# Logs
+logs/*.png
+logs/*.html
+logs/*.log
+
+# Test caches
+.pytest_cache/
+coverage/
