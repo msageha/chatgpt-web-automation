@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-[!CAUTION]
-**OpenAIの規約違反に当たる可能性があります。**
-**自己責任でお願いします。**
+> [!CAUTION]
+> OpenAIの規約違反に当たる可能性があります。  
+> 自己責任でお願いします。
 
 ## 特徴
 
